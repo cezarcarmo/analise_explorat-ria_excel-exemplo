@@ -1,1 +1,1 @@
-# analise_explorat-ria_excel-exemplo
+# analise_exploratoria_excel_exemplo
